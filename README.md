@@ -1,1 +1,2 @@
 # DBMS
+This project is insight into the design and implementation of a TEMPLE DATABASE MANAGEMENT.It is implemented by creating a database of the available details in Temple. The primary aim of this Temple database Management System is to improve accuracy and enhance safety and efficiency of tracking and keeping details of pooja’s booked in the temple. The project has been developed for ensuring effective policing by providing statistics of the members. The MYSQL database is used as a platform along with PHP and WAMP Server support.
